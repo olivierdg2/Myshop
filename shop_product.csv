@@ -1,0 +1,12 @@
+id,name,slug,image,description,price,available,created,updated,category_id
+1,Coca-cola,coca-cola,products/2020/10/27/index.jpg,Boisson rafraichissante,2.5,1,2020-10-27 09:38:57.659734,2020-11-28 16:24:26.710469,1
+2,Iced-Tea,iced-tea,products/2020/10/27/index1.jpg,Boisson hyper rafraichissante,3,1,2020-10-27 09:39:59.427675,2020-10-27 09:39:59.427675,1
+3,MasterPCRace,masterpcrace,products/2020/10/27/index2.jpg,Supercomputer at home!,300,1,2020-10-27 11:36:45.905738,2020-10-27 11:36:45.905738,3
+4,Mars,mars, ,A bit of the red planet in your mouth,1.5,1,2020-10-27 11:37:25.269395,2020-10-27 11:37:25.269395,2
+5,Clavier,clavier, ,Un clavier ordinaire,10,1,2020-10-27 11:37:51.919522,2020-10-27 11:38:12.648991,3
+6,Gaming Mouse,gaming-mouse,products/2020/10/27/index5.jpg,Never miss a shot,25,1,2020-10-27 11:40:30.262645,2020-10-27 11:40:30.262645,3
+7,Healtky Food,healtky-food,products/2020/10/27/index6.jpg,Stay fit and stronger with our 1000% healthy food!,9.99,1,2020-10-27 11:44:06.400984,2020-10-27 11:44:06.400984,2
+8,Assiette,assiette, ,Vous savez ce que c'est,3,1,2020-10-27 11:44:44.656186,2020-10-27 11:45:31.101608,5
+9,couteau,couteau, ,Ça tranche tout,1,1,2020-10-27 11:45:24.986992,2020-10-27 11:45:24.986992,5
+10,fourchette,fourchette, ,Pour ne pas devoir manger avec les mains,1.25,1,2020-10-27 11:45:53.151868,2020-10-27 11:45:53.151868,5
+11,Télévision,television, ,Pour regarder vos séries préférées,400,1,2020-10-27 11:46:34.746379,2020-10-27 11:46:34.746379,4

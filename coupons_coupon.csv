@@ -1,0 +1,3 @@
+id,code,valid_from,valid_to,discount,active
+1,MYCOUPON,2020-10-27 11:46:51,2021-10-28 11:47:02,10,1
+2,COUPONSECRET,2020-10-27 11:47:33,2022-10-27 11:47:39,25,1

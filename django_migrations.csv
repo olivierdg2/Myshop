@@ -1,0 +1,25 @@
+id,app,name,applied
+1,contenttypes,0001_initial,2020-10-26 14:50:51.729352
+2,auth,0001_initial,2020-10-26 14:50:51.757962
+3,admin,0001_initial,2020-10-26 14:50:51.774866
+4,admin,0002_logentry_remove_auto_add,2020-10-26 14:50:51.799798
+5,admin,0003_logentry_add_action_flag_choices,2020-10-26 14:50:51.820743
+6,contenttypes,0002_remove_content_type_name,2020-10-26 14:50:51.850716
+7,auth,0002_alter_permission_name_max_length,2020-10-26 14:50:51.867643
+8,auth,0003_alter_user_email_max_length,2020-10-26 14:50:51.888562
+9,auth,0004_alter_user_username_opts,2020-10-26 14:50:51.909505
+10,auth,0005_alter_user_last_login_null,2020-10-26 14:50:51.932443
+11,auth,0006_require_contenttypes_0002,2020-10-26 14:50:51.943638
+12,auth,0007_alter_validators_add_error_messages,2020-10-26 14:50:51.962587
+13,auth,0008_alter_user_username_max_length,2020-10-26 14:50:51.982534
+14,auth,0009_alter_user_last_name_max_length,2020-10-26 14:50:52.002481
+15,auth,0010_alter_group_name_max_length,2020-10-26 14:50:52.023424
+16,auth,0011_update_proxy_permissions,2020-10-26 14:50:52.040429
+17,auth,0012_alter_user_first_name_max_length,2020-10-26 14:50:52.061830
+18,coupons,0001_initial,2020-10-26 14:50:52.073798
+19,shop,0001_initial,2020-10-26 14:50:52.090752
+20,orders,0001_initial,2020-10-26 14:50:52.105505
+21,orders,0002_auto_20201026_1433,2020-10-26 14:50:52.130386
+22,sessions,0001_initial,2020-10-26 14:50:52.139338
+23,shop,0002_product_view_count,2020-11-28 16:23:32.652725
+24,shop,0003_remove_product_view_count,2020-11-29 14:34:10.136742
